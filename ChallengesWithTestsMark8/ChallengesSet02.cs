@@ -11,9 +11,9 @@ namespace ChallengesWithTestsMark8
             //var alpha= "abcdefghijklmnopqrstuvwxyz";
             //return alpha.Contains(char.ToLower(c));
 
-            //return char.IsLetter(c);
+            return char.IsLetter(c);
 
-            return (c >= 'a' && c <= 'z' || c >= 'A' && c <= 'z');
+            //return (c >= 'a' && c <= 'z' || c >= 'A' && c <= 'z');
             
         }
      
