@@ -1,0 +1,15 @@
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
